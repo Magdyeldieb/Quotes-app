@@ -1,0 +1,26 @@
+h1{
+    font-size: 5rem;
+    font-weight: 700;
+    font-family: Impact;
+}
+p{
+    font-size: 2.5rem;
+    font-family: "Times New Roman";
+    color: black;
+}
+p img{
+    width: 30px;
+  
+}
+
+.btn{
+    width: 250px;
+    padding: 30px;
+    background-color: blue;
+    color: #fff;
+
+}
+.btn:hover{
+    background-color: green;
+    color:#fff
+}
